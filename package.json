@@ -7,7 +7,7 @@
     "url": "https://github.com/KyleAMathews/react-smart-time-ago/issues"
   },
   "dependencies": {
-    "react-autoupdate-time": "bharathpbhat/react-autoupdate-time",
+    "react-autoupdate-time": "^1.0.5",
     "react-time": "^4.0.0"
   },
   "devDependencies": {
